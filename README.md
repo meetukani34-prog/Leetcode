@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/meetukani34-prog/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0015-3sum) |
 | [0410-split-array-largest-sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
 |  |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
