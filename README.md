@@ -11,11 +11,9 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## 📊 Real-Time Statistics & Insights
 
 <p align="middle">
-  <!-- LeetCode Stats Card (Replace YOUR_LEETCODE_USERNAME with your actual username) -->
-  <img src="https://leetcode-stats-github-cloud.vercel.app/?username=meetukani34-prog&theme=dark" alt="LeetCode Stats" width="48%" />
+  <img src="https://leetcode-stats-github-cloud.vercel.app/?username=meetukani34&theme=dark" alt="LeetCode Stats" width="48%" />
   
-  <!-- Language / Skill Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetukani34-prog&layout=compact&theme=dark&hide_border=true" alt="Top Languages Graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetukani34-prog&layout=compact&theme=dark&hide_border=true&hide=javascript,typescript,html,css,plpgsql" alt="Top Languages Graph" width="48%" />
 </p>
 
 ### 🛠️ Repository Highlights
@@ -25,7 +23,6 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 
 ---
 
-<!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 |  |
@@ -92,4 +89,3 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/meetukani34-prog/Leetcode/tree/master/0125-valid-palindrome) |
-<!---LeetCode Topics End-->
