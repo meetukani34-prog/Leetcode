@@ -12,7 +12,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## 📊 Real-Time Statistics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetukani34-prog&layout=compact&theme=dark&hide_border=false&hide=javascript,typescript,html,css,plpgsql&card_width=450" alt="Languages Card" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/meetukani34?theme=dark&font=Ubuntu&ext=submission,heatmap" alt="LeetCode Profile Card" width="48%" />
 </p>
 
 ### 🛠️ Repository Highlights
