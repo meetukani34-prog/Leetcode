@@ -11,7 +11,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## 📊 Real-Time Statistics & Insights
 
 <p align="middle">
-  <img src="https://leetcard.jacoblin.cool/meetukani34?theme=dark&font=Ubuntu" alt="LeetCode Stats" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/meetukani16?theme=dark&font=Ubuntu" alt="LeetCode Stats" width="48%" />
   
 </p>
 
