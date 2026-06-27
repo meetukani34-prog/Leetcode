@@ -49,10 +49,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/meetukani34-prog/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0410-split-array-largest-sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0410-split-array-largest-sum) |
+
 ## Greedy
 |  |
 | ------- |
