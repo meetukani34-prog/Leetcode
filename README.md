@@ -73,18 +73,12 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0074-search-a-2d-matrix](https://github.com/meetukani34-prog/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/1901-find-a-peak-element-ii) |
-## Math
-|  |
-| ------- |
-| [0050-powx-n](https://github.com/meetukani34-prog/Leetcode/tree/master/0050-powx-n) |
-
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/meetukani34-prog/Leetcode/tree/master/0125-valid-palindrome) |
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
+
 ## Math
 |  |
 | ------- |
