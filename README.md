@@ -12,7 +12,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 
 <p align="middle">
   <!-- LeetCode Stats Card (Replace YOUR_LEETCODE_USERNAME with your actual username) -->
-  <img src="https://leetcode-stats-github-cloud.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" width="48%" />
+  <img src="https://leetcode-stats-github-cloud.vercel.app/?username=meetukani34-prog&theme=dark" alt="LeetCode Stats" width="48%" />
   
   <!-- Language / Skill Graph -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetukani34-prog&layout=compact&theme=dark&hide_border=true" alt="Top Languages Graph" width="48%" />
