@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/meetukani34-prog/Leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/meetukani34-prog/Leetcode/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/meetukani34-prog/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
