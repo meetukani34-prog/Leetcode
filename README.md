@@ -11,9 +11,9 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## 📊 Real-Time Statistics & Insights
 
 <p align="middle">
-  <img src="https://leetcode-stats-github-cloud.vercel.app/?username=meetukani34&theme=dark" alt="LeetCode Stats" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/meetukani34?theme=dark&font=Ubuntu" alt="LeetCode Stats" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetukani34-prog&layout=compact&theme=dark&hide_border=true&hide=javascript,typescript,html,css,plpgsql" alt="Top Languages Graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetukani34-prog&layout=compact&theme=dark&hide_border=true&hide=javascript,typescript,html,css,plpgsql,dockerfile,powershell" alt="Top Languages Graph" width="48%" />
 </p>
 
 ### 🛠️ Repository Highlights
