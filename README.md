@@ -4,21 +4,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=LeetCode%20Dashboard&fontSize=40&animation=fadeIn" width="100%" alt="3D Style Header" />
 </p>
 
+
 Welcome to my LeetCode repository! This repository serves as a personal archive of my solutions to various algorithmic problems. It helps me track my progress, refine my problem-solving skills, and prepare for coding challenges.
 
 ---
 
 ## 📊 Real-Time Statistics & Insights
 
-<p align="middle">
-  <img src="https://leetcard.jacoblin.cool/meetukani16?theme=dark&font=Ubuntu" alt="LeetCode Stats" width="48%" />
-  
- 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/meetukani34?theme=dark&font=Ubuntu&ext=submission,heatmap" alt="LeetCode Profile Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetukani34-prog&layout=compact&theme=dark&hide_border=false&hide=javascript,typescript,html,css,plpgsql&card_width=450" alt="Languages Card" width="48%" />
+</p>
 
 ### 🛠️ Repository Highlights
-* **Language Focused:** Optimized clean code with proper space and time complexity analysis.
-* **Structured Organization:** Automatically categorized by topics and tags.
-* **Continuous Learning:** Constantly updated with new problems ranging from arrays to complex dynamic programming.
+* 💡 **Language Focused:** Optimized clean code with proper space and time complexity analysis.
+* 📂 **Structured Organization:** Automatically categorized by topics and tags.
+* 📈 **Continuous Learning:** Constantly updated with new problems ranging from arrays to complex dynamic programming.
 
 ---
 
@@ -86,5 +87,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0050-powx-n](https://github.com/meetukani34-prog/Leetcode/tree/master/0050-powx-n) |
 ## String
 |  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/meetukani34-prog/Leetcode/tree/master/0125-valid-palindrome) |
 | ------- |
 | [0125-valid-palindrome](https://github.com/meetukani34-prog/Leetcode/tree/master/0125-valid-palindrome) |
