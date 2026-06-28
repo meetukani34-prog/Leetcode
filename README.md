@@ -1,4 +1,7 @@
 # 🚀 LeetCode Journey & Solutions
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=LeetCode%20Dashboard&fontSize=40&animation=fadeIn" width="100%" alt="3D Style Header" />
+</p>
 
 Welcome to my LeetCode repository! This repository serves as a personal archive of my solutions to various algorithmic problems. It helps me track my progress, refine my problem-solving skills, and prepare for coding challenges.
 
