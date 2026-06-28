@@ -1,24 +1,19 @@
 # 🚀 LeetCode Journey & Solutions
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=LeetCode%20Dashboard&fontSize=40&animation=fadeIn" width="100%" alt="3D Style Header" />
-</p>
-
 Welcome to my LeetCode repository! This repository serves as a personal archive of my solutions to various algorithmic problems. It helps me track my progress, refine my problem-solving skills, and prepare for coding challenges.
 
 ---
 
 ## 📊 Real-Time Statistics & Insights
 
-<p align="middle">
-  <img src="https://leetcard.jacoblin.cool/meetukani16?theme=dark&font=Ubuntu" alt="LeetCode Stats" width="48%" />
-  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/meetukani16?theme=dark&font=Ubuntu&ext=submission,heatmap" alt="LeetCode Profile Card" width="48%" />
 </p>
 
 ### 🛠️ Repository Highlights
-* **Language Focused:** Optimized clean code with proper space and time complexity analysis.
-* **Structured Organization:** Automatically categorized by topics and tags.
-* **Continuous Learning:** Constantly updated with new problems ranging from arrays to complex dynamic programming.
+* 💡 **Language Focused:** Optimized clean code with proper space and time complexity analysis.
+* 📂 **Structured Organization:** Automatically categorized by topics and tags.
+* 📈 **Continuous Learning:** Constantly updated with new problems ranging from arrays to complex dynamic programming.
 
 ---
 
@@ -76,7 +71,12 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0074-search-a-2d-matrix](https://github.com/meetukani34-prog/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/1901-find-a-peak-element-ii) |
-
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/meetukani34-prog/Leetcode/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -86,11 +86,3 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/meetukani34-prog/Leetcode/tree/master/0125-valid-palindrome) |
-
-## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0009-palindrome-number) |
-| [0050-powx-n](https://github.com/meetukani34-prog/Leetcode/tree/master/0050-powx-n) |
-| [0509-fibonacci-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0509-fibonacci-number) |
-<!---LeetCode Topics End-->
