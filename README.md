@@ -101,6 +101,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | ------- |
 | [0007-reverse-integer](https://github.com/meetukani34-prog/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/meetukani34-prog/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/meetukani34-prog/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/meetukani34-prog/Leetcode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0509-fibonacci-number) |
@@ -112,4 +113,8 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/meetukani34-prog/Leetcode/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/meetukani34-prog/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
