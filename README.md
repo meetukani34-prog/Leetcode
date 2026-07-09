@@ -55,12 +55,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0015-3sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/meetukani34-prog/Leetcode/tree/master/0125-valid-palindrome) |
 
-## Matrix
-|  |
-| ------- |
-| [0074-search-a-2d-matrix](https://github.com/meetukani34-prog/Leetcode/tree/master/0074-search-a-2d-matrix) |
-| [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
-| [1901-find-a-peak-element-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+
 
 
 ## String
@@ -75,6 +70,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/meetukani34-prog/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/meetukani34-prog/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/meetukani34-prog/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/meetukani34-prog/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0137-single-number-ii) |
@@ -101,6 +97,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0007-reverse-integer](https://github.com/meetukani34-prog/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/meetukani34-prog/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/meetukani34-prog/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/meetukani34-prog/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/meetukani34-prog/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/meetukani34-prog/Leetcode/tree/master/0231-power-of-two) |
@@ -133,4 +130,11 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/meetukani34-prog/Leetcode/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/meetukani34-prog/Leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/meetukani34-prog/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
