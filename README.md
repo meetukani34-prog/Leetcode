@@ -32,11 +32,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/meetukani34-prog/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/meetukani34-prog/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/1901-find-a-peak-element-ii) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/meetukani34-prog/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
-| [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +113,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0029-divide-two-integers](https://github.com/meetukani34-prog/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/meetukani34-prog/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/meetukani34-prog/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/meetukani34-prog/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/meetukani34-prog/Leetcode/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/meetukani34-prog/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -137,4 +134,10 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0074-search-a-2d-matrix](https://github.com/meetukani34-prog/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/meetukani34-prog/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/meetukani34-prog/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
