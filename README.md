@@ -33,10 +33,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [1539-kth-missing-positive-number](https://github.com/meetukani34-prog/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 
-## Dynamic Programming
-|  |
-| ------- |
-| [0410-split-array-largest-sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0410-split-array-largest-sum) |
+
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +60,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0004-median-of-two-sorted-arrays](https://github.com/meetukani34-prog/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/meetukani34-prog/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/meetukani34-prog/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/meetukani34-prog/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/meetukani34-prog/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/meetukani34-prog/Leetcode/tree/master/0075-sort-colors) |
@@ -140,6 +138,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/meetukani34-prog/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/meetukani34-prog/Leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/meetukani34-prog/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
@@ -149,4 +148,9 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0075-sort-colors](https://github.com/meetukani34-prog/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/meetukani34-prog/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/meetukani34-prog/Leetcode/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/meetukani34-prog/Leetcode/tree/master/0053-maximum-subarray) |
+| [0410-split-array-largest-sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
