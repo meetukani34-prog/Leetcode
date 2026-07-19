@@ -67,6 +67,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0078-subsets](https://github.com/meetukani34-prog/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/meetukani34-prog/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/meetukani34-prog/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/meetukani34-prog/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/meetukani34-prog/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -78,6 +79,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/meetukani34-prog/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/meetukani34-prog/Leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -85,6 +87,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0015-3sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/meetukani34-prog/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/meetukani34-prog/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/meetukani34-prog/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/meetukani34-prog/Leetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -139,6 +142,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/meetukani34-prog/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/meetukani34-prog/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/meetukani34-prog/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/meetukani34-prog/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
@@ -153,4 +157,8 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | ------- |
 | [0053-maximum-subarray](https://github.com/meetukani34-prog/Leetcode/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/meetukani34-prog/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
