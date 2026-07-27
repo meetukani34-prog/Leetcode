@@ -97,6 +97,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0204-count-primes](https://github.com/meetukani34-prog/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/meetukani34-prog/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/meetukani34-prog/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/meetukani34-prog/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/meetukani34-prog/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -119,12 +120,14 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0231-power-of-two](https://github.com/meetukani34-prog/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/meetukani34-prog/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/meetukani34-prog/Leetcode/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/meetukani34-prog/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/meetukani34-prog/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/meetukani34-prog/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/meetukani34-prog/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
