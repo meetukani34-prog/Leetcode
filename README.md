@@ -68,6 +68,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0852-peak-index-in-a-mountain-array](https://github.com/meetukani34-prog/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/meetukani34-prog/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/meetukani34-prog/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meetukani34-prog/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/meetukani34-prog/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
@@ -86,6 +87,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0169-majority-element](https://github.com/meetukani34-prog/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/meetukani34-prog/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0268-missing-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meetukani34-prog/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -196,4 +198,8 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/meetukani34-prog/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/meetukani34-prog/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meetukani34-prog/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
