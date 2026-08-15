@@ -240,4 +240,16 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0567-permutation-in-string) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/meetukani34-prog/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/meetukani34-prog/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/meetukani34-prog/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
