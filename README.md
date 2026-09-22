@@ -41,6 +41,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/meetukani34-prog/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/meetukani34-prog/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/meetukani34-prog/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meetukani34-prog/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -222,6 +223,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/meetukani34-prog/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/meetukani34-prog/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0344-reverse-string) |
@@ -252,4 +254,8 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/meetukani34-prog/Leetcode/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/meetukani34-prog/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
