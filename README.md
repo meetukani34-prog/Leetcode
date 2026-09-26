@@ -70,6 +70,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meetukani34-prog/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/meetukani34-prog/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/meetukani34-prog/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0217-contains-duplicate](https://github.com/meetukani34-prog/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/meetukani34-prog/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0342-power-of-four](https://github.com/meetukani34-prog/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/meetukani34-prog/Leetcode/tree/master/0877-stone-game) |
+| [2965-find-missing-and-repeated-values](https://github.com/meetukani34-prog/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/meetukani34-prog/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/meetukani34-prog/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
@@ -146,6 +149,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/meetukani34-prog/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/meetukani34-prog/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
