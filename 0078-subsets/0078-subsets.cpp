@@ -1,19 +1,18 @@
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
-        int subsets = 1 << n;
-        vector<vector<int>> ans;
-
-        for (int num = 0; num < subsets; num++) {
-            vector<int> subset;
-            for (int i = 0; i < n; i++) {
-                if (num & (1 << i)) {
-                    subset.push_back(nums[i]);
-                }
-            }
-            ans.push_back(subset);
+        vector<vector<int>> result;
+        vector<int> path;
+        backtrack(nums, 0, path, result);
+        return result;
+    }
+    
+    void backtrack(vector<int>& nums, int start, vector<int>& path, vector<vector<int>>& result) {
+        result.push_back(path);
+        for (int i = start; i < nums.size(); i++) {
+            path.push_back(nums[i]);
+            backtrack(nums, i + 1, path, result);
+            path.pop_back();
         }
-        return ans;
     }
 };
