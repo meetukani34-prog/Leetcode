@@ -138,6 +138,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/meetukani34-prog/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/meetukani34-prog/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/meetukani34-prog/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0509-fibonacci-number) |
@@ -273,4 +274,8 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/meetukani34-prog/Leetcode/tree/master/0051-n-queens) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
