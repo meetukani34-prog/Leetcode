@@ -180,6 +180,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0344-reverse-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/meetukani34-prog/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -278,4 +279,5 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
