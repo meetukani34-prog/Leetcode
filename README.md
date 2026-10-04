@@ -243,6 +243,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/meetukani34-prog/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/meetukani34-prog/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/meetukani34-prog/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0344-reverse-string) |
@@ -252,6 +253,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/meetukani34-prog/Leetcode/tree/master/0020-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/meetukani34-prog/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -304,4 +306,8 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/meetukani34-prog/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
