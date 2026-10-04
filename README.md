@@ -140,6 +140,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/meetukani34-prog/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/meetukani34-prog/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/meetukani34-prog/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/meetukani34-prog/Leetcode/tree/master/0231-power-of-two) |
@@ -284,6 +285,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/meetukani34-prog/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/meetukani34-prog/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/meetukani34-prog/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0206-reverse-linked-list) |
