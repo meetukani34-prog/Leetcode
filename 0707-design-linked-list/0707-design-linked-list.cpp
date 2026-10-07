@@ -6,24 +6,59 @@ public:
         int val;
         Node* next;
 
-        Node(int val) {
-            this->val = val;
+        Node(int value) {
+            val = value;
             next = NULL;
         }
     };
 
     Node* head;
-    int size;
+    Node* tail;
+    int length;
 
     MyLinkedList() {
         head = NULL;
-        size = 0;
+        tail = NULL;
+        length = 0;
+    }
+
+    void addAtHead(int val) {
+
+        Node* newNode = new Node(val);
+
+        if (length == 0) {
+            head = newNode;
+            tail = newNode;
+        }
+        else {
+            newNode->next = head;
+            head = newNode;
+        }
+
+        length++;
+    }
+
+    void addAtTail(int val) {
+
+        Node* newNode = new Node(val);
+
+        if (length == 0) {
+            head = newNode;
+            tail = newNode;
+        }
+        else {
+            tail->next = newNode;
+            tail = newNode;
+        }
+
+        length++;
     }
 
     int get(int index) {
 
-        if (index < 0 || index >= size)
+        if (index < 0 || index >= length) {
             return -1;
+        }
 
         Node* temp = head;
 
@@ -34,98 +69,75 @@ public:
         return temp->val;
     }
 
-    void addAtHead(int val) {
-
-        Node* newNode = new Node(val);
-
-        newNode->next = head;
-        head = newNode;
-
-        size++;
-    }
-
-    void addAtTail(int val) {
-
-        Node* newNode = new Node(val);
-
-        if (head == NULL) {
-            head = newNode;
-            size++;
-            return;
-        }
-
-        Node* temp = head;
-
-        while (temp->next != NULL) {
-            temp = temp->next;
-        }
-
-        temp->next = newNode;
-
-        size++;
-    }
-
     void addAtIndex(int index, int val) {
 
-        if (index < 0 || index > size)
+        if (index < 0 || index > length) {
             return;
+        }
 
-        // Add at beginning
         if (index == 0) {
             addAtHead(val);
             return;
         }
 
-        // Add at end
-        if (index == size) {
+        if (index == length) {
             addAtTail(val);
             return;
         }
 
+        Node* newNode = new Node(val);
+
         Node* temp = head;
 
-        // Reach node before index
-        for (int i = 0; i < index - 1; i++) {
+        for (int i = 1; i < index; i++) {
             temp = temp->next;
         }
-
-        Node* newNode = new Node(val);
 
         newNode->next = temp->next;
         temp->next = newNode;
 
-        size++;
+        length++;
     }
 
     void deleteAtIndex(int index) {
 
-        if (index < 0 || index >= size)
+        if (index < 0 || index >= length) {
             return;
+        }
 
-        // Delete head
         if (index == 0) {
-            Node* temp = head;
+
+            Node* deleteNode = head;
+
             head = head->next;
 
-            delete temp;
-            size--;
+            delete deleteNode;
+
+            length--;
+
+            if (length == 0) {
+                tail = NULL;
+            }
 
             return;
         }
 
         Node* temp = head;
 
-        // Reach node before index
-        for (int i = 0; i < index - 1; i++) {
+        for (int i = 1; i < index; i++) {
             temp = temp->next;
         }
 
-        Node* del = temp->next;
+        Node* deleteNode = temp->next;
 
-        temp->next = temp->next->next;
+        temp->next = deleteNode->next;
 
-        delete del;
+        if (index == length - 1) {
+            tail = temp;
+        }
 
-        size--;
+        delete deleteNode;
+
+        length--;
     }
 };
