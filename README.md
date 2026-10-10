@@ -66,6 +66,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0268-missing-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/meetukani34-prog/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/meetukani34-prog/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/meetukani34-prog/Leetcode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/meetukani34-prog/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -82,6 +83,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0169-majority-element](https://github.com/meetukani34-prog/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/meetukani34-prog/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/meetukani34-prog/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/meetukani34-prog/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -255,6 +257,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meetukani34-prog/Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/meetukani34-prog/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/meetukani34-prog/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -317,4 +320,8 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0707-design-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/meetukani34-prog/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
