@@ -45,6 +45,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0015-3sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meetukani34-prog/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/meetukani34-prog/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/meetukani34-prog/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/meetukani34-prog/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/meetukani34-prog/Leetcode/tree/master/0051-n-queens) |
@@ -179,6 +180,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0011-container-with-most-water](https://github.com/meetukani34-prog/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/meetukani34-prog/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/meetukani34-prog/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/meetukani34-prog/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/meetukani34-prog/Leetcode/tree/master/0125-valid-palindrome) |
@@ -193,6 +195,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/meetukani34-prog/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/meetukani34-prog/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meetukani34-prog/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/meetukani34-prog/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -257,6 +260,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meetukani34-prog/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/meetukani34-prog/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/meetukani34-prog/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/meetukani34-prog/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -323,5 +327,6 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/meetukani34-prog/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/meetukani34-prog/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
