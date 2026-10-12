@@ -81,6 +81,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/meetukani34-prog/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/meetukani34-prog/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/meetukani34-prog/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/meetukani34-prog/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0268-missing-number) |
@@ -299,6 +300,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0025-reverse-nodes-in-k-group](https://github.com/meetukani34-prog/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/meetukani34-prog/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/meetukani34-prog/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0707-design-linked-list) |
@@ -315,6 +317,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/meetukani34-prog/Leetcode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Bracket Sequences
 |  |
@@ -323,6 +326,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/meetukani34-prog/Leetcode/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0707-design-linked-list) |
 ## Monotonic Stack
 |  |
