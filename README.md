@@ -263,6 +263,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0020-valid-parentheses](https://github.com/meetukani34-prog/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/meetukani34-prog/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/meetukani34-prog/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/meetukani34-prog/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/meetukani34-prog/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/meetukani34-prog/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -329,6 +330,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | ------- |
 | [0146-lru-cache](https://github.com/meetukani34-prog/Leetcode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/meetukani34-prog/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/meetukani34-prog/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0707-design-linked-list) |
 ## Monotonic Stack
 |  |
@@ -339,4 +341,5 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/meetukani34-prog/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/meetukani34-prog/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
