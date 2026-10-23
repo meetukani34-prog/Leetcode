@@ -62,6 +62,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0204-count-primes](https://github.com/meetukani34-prog/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/meetukani34-prog/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/meetukani34-prog/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/meetukani34-prog/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/meetukani34-prog/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0268-missing-number) |
@@ -235,6 +236,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/meetukani34-prog/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meetukani34-prog/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Minimax
 |  |
@@ -276,6 +278,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/meetukani34-prog/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0567-permutation-in-string) |
 ## Primality Test
 |  |
@@ -345,5 +348,14 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/meetukani34-prog/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/meetukani34-prog/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/meetukani34-prog/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/meetukani34-prog/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/meetukani34-prog/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
