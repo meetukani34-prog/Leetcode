@@ -323,6 +323,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -360,4 +361,16 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/meetukani34-prog/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
