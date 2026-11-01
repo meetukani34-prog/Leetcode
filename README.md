@@ -76,6 +76,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/meetukani34-prog/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meetukani34-prog/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/meetukani34-prog/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/meetukani34-prog/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1901-find-a-peak-element-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/meetukani34-prog/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
