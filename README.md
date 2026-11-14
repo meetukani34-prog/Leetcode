@@ -164,6 +164,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0051-n-queens](https://github.com/meetukani34-prog/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/meetukani34-prog/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/meetukani34-prog/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -263,6 +264,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0020-valid-parentheses](https://github.com/meetukani34-prog/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/meetukani34-prog/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/meetukani34-prog/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/meetukani34-prog/Leetcode/tree/master/0443-string-compression) |
@@ -329,6 +331,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | ------- |
 | [0100-same-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/meetukani34-prog/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/meetukani34-prog/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Doubly-Linked List
@@ -373,6 +376,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0100-same-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meetukani34-prog/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/meetukani34-prog/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -384,6 +388,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0100-same-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meetukani34-prog/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/meetukani34-prog/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
