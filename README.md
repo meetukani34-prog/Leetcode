@@ -56,6 +56,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0078-subsets](https://github.com/meetukani34-prog/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/meetukani34-prog/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meetukani34-prog/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meetukani34-prog/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/meetukani34-prog/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0137-single-number-ii) |
@@ -82,6 +83,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meetukani34-prog/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/meetukani34-prog/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/meetukani34-prog/Leetcode/tree/master/0146-lru-cache) |
@@ -176,6 +178,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/meetukani34-prog/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/meetukani34-prog/Leetcode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meetukani34-prog/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/meetukani34-prog/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/meetukani34-prog/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meetukani34-prog/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -368,6 +371,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meetukani34-prog/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -378,6 +382,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meetukani34-prog/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
