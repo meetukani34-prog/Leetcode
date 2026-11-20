@@ -118,6 +118,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0231-power-of-two](https://github.com/meetukani34-prog/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/meetukani34-prog/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/meetukani34-prog/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/meetukani34-prog/Leetcode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/meetukani34-prog/Leetcode/tree/master/2235-add-two-integers) |
@@ -270,6 +271,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0257-binary-tree-paths](https://github.com/meetukani34-prog/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/meetukani34-prog/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/meetukani34-prog/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/meetukani34-prog/Leetcode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/meetukani34-prog/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -285,6 +287,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/meetukani34-prog/Leetcode/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/meetukani34-prog/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
