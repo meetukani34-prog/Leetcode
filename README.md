@@ -280,6 +280,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | ------- |
 | [0020-valid-parentheses](https://github.com/meetukani34-prog/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/meetukani34-prog/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/meetukani34-prog/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/meetukani34-prog/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/meetukani34-prog/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/meetukani34-prog/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -335,6 +336,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/meetukani34-prog/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/meetukani34-prog/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -380,6 +382,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/meetukani34-prog/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meetukani34-prog/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -394,6 +397,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/meetukani34-prog/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meetukani34-prog/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/meetukani34-prog/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
