@@ -121,6 +121,7 @@ Welcome to my LeetCode repository! This repository serves as a personal archive 
 | [0412-fizz-buzz](https://github.com/meetukani34-prog/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/meetukani34-prog/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/meetukani34-prog/Leetcode/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/meetukani34-prog/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/meetukani34-prog/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/meetukani34-prog/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/meetukani34-prog/Leetcode/tree/master/2413-smallest-even-multiple) |
